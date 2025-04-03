@@ -13,7 +13,7 @@
 ## Vista previa de la aplicación
 La GUI de la aplicación en Java se muestra a continuación:
 
-![Captura de pantalla de la app](readme_assets/vistaPreviaAppJava.png)
+![Captura de pantalla de la app](readme_assets/vistaPreviaAppJava.PNG)
 
 ## Script
 1.- En el directorio script se encuentra el archivo .py para realizar las peticiones a la base de datos  
