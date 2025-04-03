@@ -16,7 +16,7 @@ La GUI de la aplicacion en Java se muestra a continuacion:
 ![Captura de pantalla de la app](readme_assets/vistaPreviaAppJava.PNG)
 
 ## Script
-1.- En el directorio script se encuentra el archivo .py para realizar las peticiones a la base de datos  
+1.- En el directorio script se encuentra el archivo .py para realizar las peticiones a la aplicación en Java
 
 2.- Instalar dependencias de requirements.txt para ejecutar el script correctamente
 
