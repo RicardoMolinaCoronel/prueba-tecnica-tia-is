@@ -21,3 +21,5 @@ La GUI de la aplicacion en Java se muestra a continuacion:
 2.- Instalar dependencias de requirements.txt para ejecutar el script correctamente
 
 3.- Por defecto buscara el archivo Enemigos.txt en la ruta Downloads o Descargas del Usuario en el que se encuentra la app.
+
+4.- Ejecutar script con python script_peticiones.py, dentro del directorio scripts
